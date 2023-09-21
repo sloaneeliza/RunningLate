@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Write\ a\ description\ of\ class\ Player\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=n
+comment1.target=Player(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Player\n
+comment2.params=
+comment2.target=Room\ getCurrentRoom()
+comment3.params=cR
+comment3.target=void\ setCurrentRoom(Room)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getInventoryWeight()
+comment6.params=it
+comment6.target=void\ takeItem(Item)
+comment7.params=it
+comment7.target=void\ removeItem(Item)
+comment8.params=
+comment8.target=java.lang.String\ playerInv()
+numComments=9

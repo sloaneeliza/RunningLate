@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=zuul
+comment0.text=\n\ A\ controller\ class\ for\ the\ game\ of\ Zuul.\n\ \n\ @author\ William\ H.\u00A0Hooper\n\ @version\ 2010-04-19\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ \ Main\ play\ routine.\ \ Loops\ until\ end\ of\ play.\n
+comment2.params=
+comment2.target=void\ play()
+comment3.params=
+comment3.target=zuul()
+numComments=4
