@@ -1,33 +1,11 @@
-Project: zuul-bad
-Authors: Michael Kölling and David J. Barnes
+Based off of "zuul-bad"project from Objects First with Java by David J. Barnes and Michael Kölling
 
-This project is part of the material for the book
+BlueJ is required to properly run.
 
-   Objects First with Java - A Practical Introduction using BlueJ
-   Sixth edition
-   David J. Barnes and Michael Kölling
-   Pearson Education, 2016
+To run: open the folder, open package.bluej
+        right-click on ZuulApplet and click "void play()"
+        you should then be loaded into the game.
 
-This project is a simple framework for an adventure game. In this version,
-it has a few rooms and the ability for a player to walk between these rooms.
-That's all.
-
-To start this application, create an instance of class "Game" and call its
-"play" method.
-
-This version of the game contains some very bad class design. It should NOT
-be used as a basis for extending the project without fixing these design
-problems. It serves as an example to discuss good and bad design (chapter 8
-of the book).
-
-Chapter 8 of the book contains a detailed description of the problems in this
-project, and how to fix them.
-
-The project 'zuul-better' contains a version of this project with better
-designed class structure. It includes the fixes discussed in the book.
-
-
-The game is you woke up late for your 9AM Programming 1 class, and you have to
-walk around campus to find your class and get their on time before Dr.
-Hooper takes the attendance list off the board.
-            -- Sloane Wright
+You have to find your way to to your classroom before time runs out. This game is text-based, meaning
+you can only move and execute commands by typing.
+            -- Sloane
