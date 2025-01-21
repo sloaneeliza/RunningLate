@@ -8,4 +8,6 @@ To run: open the folder, open package.bluej
 
 You have to find your way to to your classroom before time runs out. This game is text-based, meaning
 you can only move and execute commands by typing.
+
+This is my first fully independent project I made when I was a freshman in college. :)
             -- Sloane
